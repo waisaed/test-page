@@ -1,0 +1,22 @@
+{
+    "apps": [
+        {
+            "id": 1,
+            "name": "Gala",
+            "open": true,
+            "subject": "sustainability"
+        },
+        {
+            "id": 2,
+            "name": "Qubes",
+            "open": true,
+            "subject": "ecology"
+        },
+        {
+            "id": 3,
+            "name": "Courseware",
+            "open": false,
+            "subject": "boring"
+        }
+    ]
+}
